@@ -1,0 +1,7 @@
+{
+  "name": "vitehow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
