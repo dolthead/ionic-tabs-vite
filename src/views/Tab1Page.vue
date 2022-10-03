@@ -12,12 +12,14 @@
         </ion-toolbar>
       </ion-header>
     
-      <ExploreContainer name="Tab 1 page" />
+      <ion-thumbnail class="w-14 h-14 rounded-full">
+        <img src="/mypic.png">
+      </ion-thumbnail>
+
     </ion-content>
   </ion-page>
 </template>
 
 <script lang="ts" setup>
-  import { IonPage, IonHeader, IonToolbar, IonTitle, IonContent } from '@ionic/vue';
-  import ExploreContainer from '@/components/ExploreContainer.vue';
+  import { IonPage, IonHeader, IonToolbar, IonTitle, IonContent, IonThumbnail } from '@ionic/vue';
 </script>
