@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "ionictabsvite",
+	"appId": "edu.mtec.meetup.vuetabs",
+	"appName": "Vue Tabs",
 	"webDir": "dist",
 	"bundledWebRuntime": false
 }

@@ -2,3 +2,5 @@ dist/
 node_modules/
 .DS_Store
 tests/e2e/videos/
+ios/App/App/Assets.xcassets/
+public/assets/

@@ -1,5 +1,5 @@
 {
-  "name": "ionictabsvite",
+  "name": "vue-tabs",
   "integrations": {
     "capacitor": {}
   },
